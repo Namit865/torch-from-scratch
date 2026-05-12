@@ -97,3 +97,6 @@ Uvicorn – ASGI server
 🤝 Connect
 If you're also digging into the internals of deep learning or building custom AI from scratch, I’d love to connect.
 linkdin: www.linkedin.com/in/namit-senjaliya-68a3162a2
+
+## Training Output
+![Training loss decreasing over epochs](assets/training.png)
